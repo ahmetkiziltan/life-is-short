@@ -1,8 +1,31 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 14px Helvetica;
 }
 
 a {
   color: #00B7FF;
+}
+body {
+	background-color : #C1E5DF;
+}
+h1 {
+	font-size: 54px;
+	font-weight: bold;
+	color: #5D544B;
+}
+p {
+	color:#5D544B;
+}
+
+.lifeExpectancyNumber {
+	font-size: 30px;
+
+}
+.lifeExpectancyText {
+	height: 30px;
+	margin-top:15px;
+}
+.lifeExpectancyTextRow {
+	width:auto;
 }
